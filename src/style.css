@@ -1,0 +1,19 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+
+h1, p {
+  font-family: Lato;
+}
+
+form{
+  padding: 20px;
+  margin: 0 auto;
+}
+
+input{
+  margin: 5px;
+}
+ 
+#random-btn:hover{
+  color: #343a40 ;
+}
